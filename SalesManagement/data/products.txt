@@ -1,0 +1,12 @@
+SP001|Bàn phím cơ Akko|DM001|1250000|23323|Switch tactile, LED RGB|assets/products/SP001_1787059816985.jpg
+SP002|Chuột Logitech G304|DM001|750000|1000|Chuột không dây|assets/products/SP002_1787059894241.jpg
+SP003|Bàn phím Logitech K120|DM001|220000|2832|Bàn phím văn phòng|assets/products/SP003_1787060018328.jpg
+SP004|Chuột DareU EM908|DM001|390000|1823|Chuột gaming RGB|assets/products/SP004_1787060096774.jpg
+SP005|Tai nghe HyperX Cloud II|DM002|1850000|1023|Tai nghe gaming 7.1|assets/products/SP005_1787060109210.jpg
+SP006|Loa Bluetooth JBL Go 3|DM002|990000|38923|Loa bluetooth nhỏ gọn|assets/products/SP006_1787059778369.jpg
+SP007|Tai nghe Sony WH-CH520|DM002|1290000|6234|Tai nghe không dây|assets/products/SP007_1787059743040.jpg
+SP008|Màn hình LG 24 inch|DM003|3150000|346|Full HD IPS 75Hz|assets/products/SP008_1787059689548.jpg
+SP009|Màn hình Dell P2422H|DM003|4290000|234873|Full HD IPS|assets/products/SP009_1787059617012.jpg
+SP010|Màn hình Asus 27 inch|DM003|5290000|2342|2K IPS 75Hz|assets/products/SP010_1787059578187.jpg
+SP011|Màn hình MSI 24 inch|DM003|3600000|1712|full HD|assets/products/SP011_1787059512686.jpg
+SP012|Bàn phím cơ|DM001|1000000|100000|tốt|assets/products/product_1787045418782.jpg

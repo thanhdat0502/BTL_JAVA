@@ -1,0 +1,5 @@
+KH001|Nguyễn Văn An|0901234567|an@gmail.com|Hà Nội
+KH002|Trần Thị Bình|0912345678|binh@gmail.com|Đà Nẵng
+KH003|Lê Minh Cường|0923456789|cuong@gmail.com|TP.HCM
+KH004|Phạm Thu Dung|0934567890|dung@gmail.com|Hải Phòng
+KH005|Hoàng Gia Huy|0945678901|huy@gmail.com|Cần Thơ

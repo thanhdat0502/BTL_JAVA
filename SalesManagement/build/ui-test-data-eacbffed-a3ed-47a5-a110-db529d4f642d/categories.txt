@@ -1,0 +1,3 @@
+DM001|Thiết bị nhập|Bàn phím, chuột và phụ kiện
+DM002|Âm thanh|Tai nghe và loa
+DM003|Màn hình|Màn hình máy tính

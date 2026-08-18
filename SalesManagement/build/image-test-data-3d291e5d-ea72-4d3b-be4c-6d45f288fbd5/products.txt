@@ -1,0 +1,10 @@
+SP001|Bàn phím cơ Akko|DM001|1250000|20|Switch tactile, LED RGB|assets/products/sample.png
+SP002|Chuột Logitech G304|DM001|750000|15|Chuột không dây|
+SP003|Bàn phím Logitech K120|DM001|220000|30|Bàn phím văn phòng|
+SP004|Chuột DareU EM908|DM001|390000|18|Chuột gaming RGB|
+SP005|Tai nghe HyperX Cloud II|DM002|1850000|10|Tai nghe gaming 7.1|
+SP006|Loa Bluetooth JBL Go 3|DM002|990000|12|Loa bluetooth nhỏ gọn|
+SP007|Tai nghe Sony WH-CH520|DM002|1290000|9|Tai nghe không dây|
+SP008|Màn hình LG 24 inch|DM003|3150000|8|Full HD IPS 75Hz|
+SP009|Màn hình Dell P2422H|DM003|4290000|6|Full HD IPS|
+SP010|Màn hình Asus 27 inch|DM003|5290000|5|2K IPS 75Hz|
